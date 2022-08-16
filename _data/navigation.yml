@@ -1,10 +1,10 @@
 - name: Index
   link: /
 - name: Overview
-  link: pages/overview.html
+  link: /pages/overview.html
 - name: Authentication
-  link: pages/authentication.html
+  link: /pages/authentication.html
  -name: Getting Started
-  link: pages/overview.html
+  link: /pages/overview.html
 
 
