@@ -1,6 +1,5 @@
 ---
 ---
-
 @import url('https://fonts.googleapis.com/css?family=Sora');
 @import "{{ site.theme }}";
 .main-content {
@@ -13,10 +12,6 @@
    color: #162c5e;
    font-family: 'Sora';
    margin-left: 150px;
- p {
-   display: block;
-   font-family: 'Sora';
-    }
  a {
   color: #426eff;
   font-family: 'Sora';
@@ -25,21 +20,12 @@
 }
 .page-header {
   color: #f9f8eb;
-  text-align: left;
-  margin-left: 250px;
-  height: 80px;
   background-color: #426eff;
   background-image: none;
   font-family: 'Sora';
 }
 footer {
   font-family: 'Sora';
-  width: 80%;
-  float: right;
-  margin-bottom: 20px;
   position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
   text-align: center;
 }
