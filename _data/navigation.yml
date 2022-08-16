@@ -1,10 +1,10 @@
 - name: Index
   link: /
 - name: Overview
-  link: (https://GrainneReidy.github.io/pages/overview)
+  link: pages/overview.html
 - name: Authentication
-  link: (https://GrainneReidy.github.io/pages/authentication)
+  link: pages/authentication.html
  -name: Getting Started
-  link: (https://GrainneReidy.github.io/pages/overview)
+  link: pages/overview.html
 
 
