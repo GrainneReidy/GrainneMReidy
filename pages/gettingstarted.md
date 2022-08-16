@@ -1,5 +1,7 @@
+---
 title: Getting Started
 permalink: gettingstarted.html
+---
 
 # Getting Started
 
