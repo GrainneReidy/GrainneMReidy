@@ -1,7 +1,7 @@
 - name: Index
   link: /
 - name: Overview
-  link: /overview.html
+  link: overview.html
 - name: Authentication
   link: authentication.html
 - name: Getting Started
