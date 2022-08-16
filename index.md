@@ -1,2 +1,6 @@
+title: Index
+permalink: index.html
 
-<h1 id="hello-world">Hello World</h1>
+# Hello World
+
+This is a test.
