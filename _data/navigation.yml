@@ -1,8 +1,7 @@
 - name: Index
   link: /
 - name: Overview
-  link: /pages/overview.html
+  link: /pages/c/overview.html
 - name: Authentication
-  link: /pages/authentication.html
-- name: Getting Started
-  link: /pages/gettingstarted.html
+  link: /pages/a/authentication.html
+
